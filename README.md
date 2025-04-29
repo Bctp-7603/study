@@ -8,7 +8,11 @@ https://bit.ly/number-cs-seminar-shj<br>
 2. https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC#headers_%ED%97%A4%EB%8D%94
 
 *****
-#### 3. Algorithm <br>
+#### 3. 참고
+1. https://wocl123.tistory.com/entry/4-%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95-Dynamic-Programming
+
+*****
+#### 4. Algorithm <br>
 ###### Input/Output
 - [x] 2557
 - [x] 1000
@@ -28,6 +32,27 @@ https://bit.ly/number-cs-seminar-shj<br>
 - [x] 2522
 - [x] 2446
 - [x] 10991, 10992
+
+###### DP Basic
+- [x] 2748
+- [x] 1003
+- [x] 1904
+
+
+- [ ] 2579
+- [ ] 9461
+- [ ] 1149
+
+- [ ] 1463
+- [ ] 2156
+
+- [ ] 11053
+- [ ] 11054
+- [ ] 2565,
+
+- [ ] 1912
+- [ ] 10844
+
 ###### DP
 - [x] 1463
 - [ ] 11726, 11727
